@@ -13,7 +13,7 @@ public class Punto3{
         double a = src.nextDouble();
 
         // Proceso
-        double resultado = (a*a*a);
+        double resultado = (a*a);
 
         // Salida
         System.out.println("El resultado del número es: "+resultado);
